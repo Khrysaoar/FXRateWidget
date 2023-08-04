@@ -4,9 +4,6 @@ The developers did not use https://exchangeratesapi.io/ as the rate provider bec
 # GOALS
 This project aims to create an FX calculator. It gets exchange rates from [api.apilayer.com](https://api.apilayer.com/exchangerates_data/latest) 
 
-# Limitations
-Public API of _api.apilayer.com_ gives rates with a random base for free subscription. In this project, we have `EUR` as `BASE_CURRENCY`. 
-
 # Free api.apilayer.com API Endpoint 
 https://apilayer.com/marketplace/exchangerates_data-api
 
