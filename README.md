@@ -1,3 +1,6 @@
+# NOTES
+The developers did not use https://exchangeratesapi.io/ as the rate provider because it doesn't have free access to the base currency. So the developers have no way of telling what base should use.
+
 # GOALS
 This project aims to create an FX calculator. It gets exchange rates from [api.apilayer.com](https://api.apilayer.com/exchangerates_data/latest) 
 
